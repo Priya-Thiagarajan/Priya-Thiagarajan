@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Priya Thiagarajan!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-Thiagarajan&style=flat-square&color=orange" alt="https://github.com/DeepthiTabithaBennet" width="100" /> </p>
+
+#### Profile views : 
+
+<img src="https://profile-counter.glitch.me/Priya-Thiagarajan/count.svg" />
 
 <!--
 **Priya-Thiagarajan/Priya-Thiagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
