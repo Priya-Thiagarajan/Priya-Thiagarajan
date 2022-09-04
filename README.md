@@ -1,6 +1,6 @@
-## Hi, I'm Priya Thiagarajan!
+## Hi, I'm [Priya Thiagarajan](https://www.linkedin.com/in/priya-thiagarajan-16810114)!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya-Thiagarajan&style=flat-square&color=orange" alt="https://github.com/DeepthiTabithaBennet" width="100" /> </p>
+![image](https://user-images.githubusercontent.com/88799615/188308839-d30c7a5c-b581-4bd6-befa-f6b618c83c71.gif)
 
 #### Profile views : 
 
